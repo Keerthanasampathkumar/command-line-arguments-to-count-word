@@ -26,6 +26,8 @@ split the line using .split
 
 ## PROGRAM:
 ```
+#Developed by: KEERTHANA S
+#RegisterNumber:22009006
 import sys
 count=0
 with open(sys.argv[1],'r') as f:
